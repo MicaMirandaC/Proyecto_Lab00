@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/Basi/Documents/Unreal Projects/Proyecto_L/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Basi/Documents/Unreal Projects/Proyecto_L/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+			]
+		}
+	]
+}

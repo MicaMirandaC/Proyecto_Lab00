@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Proyecto_L.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Proyecto_L.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Proyecto_LEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Proyecto_L">
+      <UniqueIdentifier>{1C0B3E6B-4C11-36B8-A263-E28B5170090C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Proyecto_L\Proyecto_L.Build.cs">
+      <Filter>Source\Proyecto_L</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Proyecto_L\Proyecto_L.cpp">
+      <Filter>Source\Proyecto_L</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Proyecto_L.h">
+      <Filter>Source\Proyecto_L</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Proyecto_LCharacter.cpp">
+      <Filter>Source\Proyecto_L</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Proyecto_LCharacter.h">
+      <Filter>Source\Proyecto_L</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Proyecto_LGameMode.cpp">
+      <Filter>Source\Proyecto_L</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Proyecto_LGameMode.h">
+      <Filter>Source\Proyecto_L</Filter>
+    </ClCompile>
+    <Filter Include="Source\Proyecto_L\Private">
+      <UniqueIdentifier>{C16E7C9A-81FF-3E7E-9AE1-B4C984157B48}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Proyecto_L\Private\HierarchyActor.cpp">
+      <Filter>Source\Proyecto_L\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Private\MyActor.cpp">
+      <Filter>Source\Proyecto_L\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Private\MyActor_2.cpp">
+      <Filter>Source\Proyecto_L\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Private\Piramide.cpp">
+      <Filter>Source\Proyecto_L\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Private\RandomMovementComponent.cpp">
+      <Filter>Source\Proyecto_L\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Private\UE4CookbookGameMode.cpp">
+      <Filter>Source\Proyecto_L\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Proyecto_L\Public">
+      <UniqueIdentifier>{C0B6C926-1145-30F8-A6E1-94B34BBDDD83}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Proyecto_L\Public\HierarchyActor.h">
+      <Filter>Source\Proyecto_L\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Public\MyActor.h">
+      <Filter>Source\Proyecto_L\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Public\MyActor_2.h">
+      <Filter>Source\Proyecto_L\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Public\Piramide.h">
+      <Filter>Source\Proyecto_L\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Public\RandomMovementComponent.h">
+      <Filter>Source\Proyecto_L\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Proyecto_L\Public\UE4CookbookGameMode.h">
+      <Filter>Source\Proyecto_L\Public</Filter>
+    </ClCompile>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
